@@ -1,5 +1,4 @@
-# Sach.AI
-# Bias Mitigation in Indian Journalism
+# Sach.AI | Bias Mitigation in Indian Journalism
 
 ## Overview
 
