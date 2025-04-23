@@ -1,0 +1,11 @@
+pandas
+spacy>=3.0.0,<4.0.0
+nltk
+scikit-learn
+vaderSentiment
+thefuzz[speedup] # For fuzzy matching, speedup is optional but recommended
+sentence-transformers
+torch # Or tensorflow if you prefer and install accordingly
+yellowbrick # For cluster evaluation (silhouette plots etc)
+matplotlib # Dependency for yellowbrick/plotting
+# Keep previous requirements too
